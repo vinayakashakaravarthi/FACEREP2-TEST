@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+    margin-bottom: 0;
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+}
+.card {
+    margin-bottom: 20px;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+.product-detail img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+}
+
+.product-detail h3 {
+    margin-top: 20px;
+    font-size: 2rem;
+}
+
+.product-detail p {
+    font-size: 1.1rem;
+}
+
+.product-detail .btn {
+    margin-top: 20px;
+}
+footer p {
+    margin: 0;
+}
